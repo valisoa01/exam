@@ -1,0 +1,3 @@
+[31m[1mFAIL(B[0m
+[32mExpected Output:(B[m "ft_strcpy("L'eSPrit nE peUt plUs pRogResSer s'Il staGne et sI peRsIsTent VAnIte et auto-justification.", str) = L'eSPrit nE peUt plUs pRogResSer s'Il staGne et sI peRsIsTent VAnIte et auto-justification."
+[31mYour Output:(B[m     "ft_strcpy("L'eSPrit nE peUt plUs pRogResSer s'Il staGne et sI peRsIsTent VAnIte et auto-justification.", str) = (null)"
